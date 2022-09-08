@@ -1,2 +1,5 @@
 # TP01_IgnacioMartinez
- Entrega del TP01, Ignacio Martinez, alumno 2099081
+
+|Alumno                      |Legajo    |Github                                             |
+|----------------------------|----------|---------------------------------------------------|
+|**Ignacio Gabriel Martinez**|2099081   |[ignamartinezz](https://github.com/ignamartinezz)  |
